@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/benja/OneDrive/Documents/GitHub/High-Performance-In-Memory-Data-Engine/build/cmake_install.cmake",
+		"C:/Users/benja/OneDrive/Documents/GitHub/High-Performance-In-Memory-Data-Engine/build/src/cmake_install.cmake",
+		"C:/Users/benja/OneDrive/Documents/GitHub/High-Performance-In-Memory-Data-Engine/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

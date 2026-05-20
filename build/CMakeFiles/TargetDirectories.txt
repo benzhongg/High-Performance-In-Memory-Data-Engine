@@ -1,0 +1,8 @@
+C:/Users/benja/OneDrive/Documents/GitHub/High-Performance-In-Memory-Data-Engine/build/CMakeFiles/edit_cache.dir
+C:/Users/benja/OneDrive/Documents/GitHub/High-Performance-In-Memory-Data-Engine/build/CMakeFiles/rebuild_cache.dir
+C:/Users/benja/OneDrive/Documents/GitHub/High-Performance-In-Memory-Data-Engine/build/src/CMakeFiles/DataEngineCore.dir
+C:/Users/benja/OneDrive/Documents/GitHub/High-Performance-In-Memory-Data-Engine/build/src/CMakeFiles/DataEngineApp.dir
+C:/Users/benja/OneDrive/Documents/GitHub/High-Performance-In-Memory-Data-Engine/build/src/CMakeFiles/edit_cache.dir
+C:/Users/benja/OneDrive/Documents/GitHub/High-Performance-In-Memory-Data-Engine/build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/benja/OneDrive/Documents/GitHub/High-Performance-In-Memory-Data-Engine/build/tests/CMakeFiles/edit_cache.dir
+C:/Users/benja/OneDrive/Documents/GitHub/High-Performance-In-Memory-Data-Engine/build/tests/CMakeFiles/rebuild_cache.dir

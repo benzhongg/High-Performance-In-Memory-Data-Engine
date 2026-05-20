@@ -1,0 +1,23 @@
+# ninja log v7
+3	94	8009306147890387	src/CMakeFiles/DataEngineCore.dir/math_utils.cpp.obj	a437f100002d37f0
+10	97	8009306147960445	src/CMakeFiles/DataEngineCore.dir/query_interface.cpp.obj	fb65113d79695c6
+13	357	8009306147997994	src/CMakeFiles/DataEngineApp.dir/main.cpp.obj	e854e1071fd5c099
+6	450	8009306147927899	src/CMakeFiles/DataEngineCore.dir/storage_engine.cpp.obj	575271a623eaae52
+450	535	8009306152368022	src/libDataEngineCore.a	b6466292f149d536
+535	665	8009306153214019	src/DataEngineApp.exe	b504e8002620dab0
+7	476	8009336548303241	src/CMakeFiles/DataEngineApp.dir/main.cpp.obj	e854e1071fd5c099
+3	507	8009336548262121	src/CMakeFiles/DataEngineCore.dir/storage_engine.cpp.obj	575271a623eaae52
+509	681	8009336553322706	src/libDataEngineCore.a	b6466292f149d536
+681	904	8009336555048013	src/DataEngineApp.exe	b504e8002620dab0
+7	369	8009343891236978	src/CMakeFiles/DataEngineApp.dir/main.cpp.obj	e854e1071fd5c099
+3	470	8009343891199452	src/CMakeFiles/DataEngineCore.dir/storage_engine.cpp.obj	575271a623eaae52
+470	561	8009343895866447	src/libDataEngineCore.a	b6466292f149d536
+561	701	8009343896775793	src/DataEngineApp.exe	b504e8002620dab0
+10	354	8009344147714863	src/CMakeFiles/DataEngineApp.dir/main.cpp.obj	e854e1071fd5c099
+4	578	8009344147652200	src/CMakeFiles/DataEngineCore.dir/storage_engine.cpp.obj	575271a623eaae52
+578	666	8009344153392034	src/libDataEngineCore.a	b6466292f149d536
+666	809	8009344154276919	src/DataEngineApp.exe	b504e8002620dab0
+13	395	8009344471277898	src/CMakeFiles/DataEngineApp.dir/main.cpp.obj	e854e1071fd5c099
+4	571	8009345611360121	src/CMakeFiles/DataEngineCore.dir/storage_engine.cpp.obj	575271a623eaae52
+572	660	8009345617045868	src/libDataEngineCore.a	b6466292f149d536
+660	797	8009345617929803	src/DataEngineApp.exe	b504e8002620dab0
