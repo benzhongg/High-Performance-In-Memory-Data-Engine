@@ -47,6 +47,8 @@ DoubleRecord* StorageEngineDUMap::readRecord(const int recordId){
     auto containsFlag = storageRecordUMap.find(recordId);
     if (containsFlag != storageRecordUMap.end()){
         return &storageRecordUMap[recordId];
+    } else {
+        return nullptr;
     }
 }
 

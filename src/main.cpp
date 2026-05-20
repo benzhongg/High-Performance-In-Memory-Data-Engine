@@ -2,6 +2,11 @@
 #include "query_interface.h"
 #include "storage_engine.h"
 #include "math_utils.h"
+#include "query_layer.h"
+
+bool customFind(const DoubleRecord& record){
+
+}
 
 int main(){
 
@@ -25,6 +30,9 @@ int main(){
     readRecord = storageA.readRecord(1);    
     std::cout << (readRecord == nullptr ? true : false) << std::endl;
 
+    CustomQuery queryA;
+    //pass ref of output to called func
+    queryA.find(&customFind);
     
 
     return 0;
