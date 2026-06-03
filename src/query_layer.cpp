@@ -58,4 +58,5 @@ DoubleRecord* CustomQuery::find(std::function<bool(const DoubleRecord&)>& search
         }
     }
     return nullptr;
+    //comment
 }

@@ -30,16 +30,6 @@ int main(){
     readRecord = storageA.readRecord(1);    
     std::cout << (readRecord == nullptr ? true : false) << std::endl;
 
-    CustomQuery queryA;
-    //pass ref of output to called func
-    queryA.find(&customFind);
-    
 
     return 0;
 }
-
-//expected output
-//1first20
-//20
-//25
-//true
