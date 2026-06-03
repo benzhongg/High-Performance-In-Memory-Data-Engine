@@ -30,6 +30,7 @@ int main(){
     readRecord = storageA.readRecord(1);    
     std::cout << (readRecord == nullptr ? true : false) << std::endl;
 
+    //temp
 
     return 0;
 }
